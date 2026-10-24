@@ -1,0 +1,8 @@
+{
+  "name": "Le Jardin de l'Espoir",
+  "description": "Premier refuge spécialisé en Côte d'Ivoire pour les Paranges (parents endeuillés par la perte d'un enfant), le deuil périnatal et la fratrie endeuillée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
